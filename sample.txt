@@ -1,0 +1,56 @@
+Introduction to Artificial Intelligence
+=======================================
+
+Artificial Intelligence (AI) is the simulation of human intelligence processes by computer systems.
+These processes include learning, reasoning, and self-correction.
+
+Key Branches of AI
+------------------
+
+1. Machine Learning (ML)
+   - A subset of AI that enables systems to learn from data without being explicitly programmed.
+   - Types: Supervised Learning, Unsupervised Learning, Reinforcement Learning.
+
+2. Deep Learning
+   - A subset of ML using neural networks with many layers.
+   - Used in image recognition, speech processing, and NLP.
+
+3. Natural Language Processing (NLP)
+   - Enables computers to understand and generate human language.
+   - Examples: chatbots, translation, sentiment analysis.
+
+4. Computer Vision
+   - Enables machines to interpret visual information from images and videos.
+   - Used in self-driving cars, medical imaging, facial recognition.
+
+RAG (Retrieval-Augmented Generation)
+-------------------------------------
+
+RAG is an AI framework that combines retrieval of relevant documents with text generation.
+Instead of relying only on training data, the model retrieves context from external knowledge bases.
+This reduces hallucinations and keeps answers grounded in real, up-to-date information.
+
+Steps in RAG:
+1. Document ingestion and chunking
+2. Embedding generation (converting text to vectors)
+3. Vector similarity search for relevant chunks
+4. Injecting retrieved context into the LLM prompt
+5. Generating a grounded, cited response
+
+Applications of AI
+------------------
+
+- Healthcare: disease diagnosis, drug discovery
+- Finance: fraud detection, algorithmic trading
+- Education: personalized learning, automated grading
+- Agriculture: crop disease detection, yield prediction
+- Transportation: autonomous vehicles, route optimization
+
+Ethical Concerns
+----------------
+
+- Bias in AI models
+- Privacy and surveillance
+- Job displacement
+- Lack of transparency (black box problem)
+- Misuse for deepfakes or misinformation
