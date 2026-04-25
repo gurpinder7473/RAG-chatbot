@@ -11,7 +11,6 @@
 
 Open `index.html` in any browser. No server needed — it runs entirely in the browser!
 
-## 🚀 Live Demo
 
 🌐 **[Open DocMind RAG Chatbot](https://gurpinder7473.github.io/RAG-chatbot/)**
 ---
