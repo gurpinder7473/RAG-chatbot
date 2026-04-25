@@ -13,7 +13,7 @@ Open `index.html` in any browser. No server needed — it runs entirely in the b
 
 ## 🚀 Live Demo
 
-🌐 **[Open DocMind RAG Chatbot](https://YOUR_USERNAME.github.io/docmind-rag/)**
+🌐 **[Open DocMind RAG Chatbot](https://gurpinder7473.github.io/RAG-chatbot/)**
 ---
 
 ## 📌 What is RAG?
